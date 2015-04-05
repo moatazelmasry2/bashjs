@@ -1,0 +1,23 @@
+{
+  "name": "bashjs",
+  "version": "1.0.0",
+  "description": "A project to mimic as many standard bash functions as possible",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moatazelmasry2/bashjs.git"
+  },
+  "author": "Moataz Elmasrz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moatazelmasry2/bashjs/issues"
+  },
+  "homepage": "https://github.com/moatazelmasry2/bashjs"
+}
