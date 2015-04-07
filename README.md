@@ -130,7 +130,7 @@ Commands already implemented have a tick infront of them. Commands marked with '
 - [ ] wait
 
 ### Disk utils
-- [] fdisk
-- [] mkfs
-- [] mkfs.ext4
+- [ ] fdisk
+- [ ] mkfs
+- [ ] mkfs.ext4
 
