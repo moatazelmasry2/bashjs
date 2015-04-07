@@ -128,3 +128,9 @@ Commands already implemented have a tick infront of them. Commands marked with '
 - [ ] umask
 - [ ] unalias
 - [ ] wait
+
+### Disk utils
+- [] fdisk
+- [] mkfs
+- [] mkfs.ext4
+- 
